@@ -1,8 +1,0 @@
-# Vendor
-/node_modules
-
-# System
-.DS_Store
-
-# IDE
-.vscode
